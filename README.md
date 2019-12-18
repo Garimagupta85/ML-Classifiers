@@ -1,6 +1,6 @@
 # ML-Classifiers
 
-## Digit Recognizer
+# Digit Recognizer
 <p> MNIST Dataset classifier build using basic sequential CNN model from Keras </p>
 
 ### Code Requirements
@@ -27,7 +27,7 @@ To run the code, Launch Jupyter Notebook in the same folder as the file.
 
 
 
-## Cloths Recognizer 
+# Clothes Recognizer 
 <p> Fashion-MNIST Dataset Classifier build using tf.keras module in Tensorflow <p>
 
 ### Code Requirements
